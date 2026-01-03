@@ -1,9 +1,9 @@
-#🧠 Course_21 – Database Level 2 – Advanced Concepts & T-SQL
+# 🧠 Course_21 – Database Level 2 – Advanced Concepts & T-SQL
 
-##Welcome to Course_21 – Database Level 2 – Advanced Concepts & T-SQL, the next step in my database learning journey.  
+## Welcome to Course_21 – Database Level 2 – Advanced Concepts & T-SQL, the next step in my database learning journey.  
 This repository serves as a live log of everything I learn from this course — I’m pushing my notes, examples, and exercises simultaneously as I progress through each topic.
 
-###📘 Course Overview
+### 📘 Course Overview
 Course from Programming Advices. This course covers a wide range of advanced T-SQL topics, including:
 
 🧩 Introduction to T-SQL

@@ -12,39 +12,9 @@ This course is from **Programming Advices** and covers a wide range of advanced 
 ### 🧩 Introduction to T-SQL
 - Course fundamentals and setup
 
-### 📦 BEGIN…END Blocks
-- Structuring T-SQL code for clarity
-
-### ⚠️ Error Handling
-- TRY…CATCH  
-- THROW statement  
-- @@ERROR function  
-- Error functions
 
 ### 💳 Transactions
 - Commit, rollback, and real-world bank transfer example
-
-### 📋 Table Variables & Temporary Tables
-- Table variables  
-- Temporary tables  
-- Differences vs permanent tables
-
-### 🗄️ Stored Procedures
-- CREATE, READ, UPDATE, DELETE  
-- RETURN statements  
-- DROP procedures  
-- SP_HELPTEXT usage
-
-### 🧮 Built-in Functions
-- String functions  
-- Date functions  
-- Aggregate functions (SUM, AVG, COUNT, MIN, MAX)
-
-### 🔍 Window Functions
-- ROW_NUMBER(), RANK(), DENSE_RANK()  
-- LAG, LEAD  
-- PARTITION BY  
-- Paging using OFFSET & FETCH NEXT
 
 ### 🧩 Scalar & Table-Valued Functions
 - Inline Table-Valued Functions (ITVFs)  
@@ -69,12 +39,43 @@ This course is from **Programming Advices** and covers a wide range of advanced 
 - Duplicate detection  
 - Ranking and aggregation examples
 
+### 📋 Table Variables & Temporary Tables
+- Table variables  
+- Temporary tables  
+- Differences vs permanent tables
+
+### 🗄️ Stored Procedures
+- CREATE, READ, UPDATE, DELETE  
+- RETURN statements  
+- DROP procedures  
+- SP_HELPTEXT usage
+
+### 🧮 Built-in Functions
+- String functions  
+- Date functions  
+- Aggregate functions (SUM, AVG, COUNT, MIN, MAX)
+
+### 🔍 Window Functions
+- ROW_NUMBER(), RANK(), DENSE_RANK()  
+- LAG, LEAD  
+- PARTITION BY  
+- Paging using OFFSET & FETCH NEXT
+
 ### 🔢 Variables & Conditional Logic
 - Variables in T-SQL  
 - IF, IF…ELSE, nested IFs  
 - Using AND/OR/NOT with conditions  
 - EXISTS checks  
 - Error handling with IF
+
+### 📦 BEGIN…END Blocks
+- Structuring T-SQL code for clarity
+
+### ⚠️ Error Handling
+- TRY…CATCH  
+- THROW statement  
+- @@ERROR function  
+- Error functions
 
 ### 🔀 CASE Statements
 - Simple CASE as SWITCH  

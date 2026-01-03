@@ -1,5 +1,0 @@
-F:\Programming Advices\Course_21_TSQL\Case Statement\Example using code in c# vs query in data base (performance)\ConsoleApp1\obj\Debug\net5.0-windows7.0\ConsoleApp1.csproj.AssemblyReference.cache
-F:\Programming Advices\Course_21_TSQL\Case Statement\Example using code in c# vs query in data base (performance)\ConsoleApp1\obj\Debug\net5.0-windows7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-F:\Programming Advices\Course_21_TSQL\Case Statement\Example using code in c# vs query in data base (performance)\ConsoleApp1\obj\Debug\net5.0-windows7.0\ConsoleApp1.AssemblyInfoInputs.cache
-F:\Programming Advices\Course_21_TSQL\Case Statement\Example using code in c# vs query in data base (performance)\ConsoleApp1\obj\Debug\net5.0-windows7.0\ConsoleApp1.AssemblyInfo.cs
-F:\Programming Advices\Course_21_TSQL\Case Statement\Example using code in c# vs query in data base (performance)\ConsoleApp1\obj\Debug\net5.0-windows7.0\ConsoleApp1.csproj.CoreCompileInputs.cache

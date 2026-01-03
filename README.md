@@ -1,91 +1,95 @@
 # 🧠 Course_21 – Database Level 2 – Advanced Concepts & T-SQL
 
-## Welcome to Course_21 – Database Level 2 – Advanced Concepts & T-SQL, the next step in my database learning journey.  
-This repository serves as a live log of everything I learn from this course — I’m pushing my notes, examples, and exercises simultaneously as I progress through each topic.
+## Welcome
+Welcome to **Course_21 – Database Level 2 – Advanced Concepts & T-SQL**, the next step in my database learning journey.  
+This repository serves as a live log of everything I learn from this course — I’ll be pushing my notes, examples, and exercises as I progress through each topic.
 
-### 📘 Course Overview
-Course from Programming Advices. This course covers a wide range of advanced T-SQL topics, including:
+---
 
-🧩 Introduction to T-SQL
-Course fundamentals and setup
+## 📘 Course Overview
+This course is from **Programming Advices** and covers a wide range of advanced T-SQL topics, including:
 
-🔢 Variables & Conditional Logic
-Variables in T-SQL
-IF, IF…ELSE, nested IFs
-Using AND/OR/NOT with conditions
-EXISTS checks
-Error handling with IF
+### 🧩 Introduction to T-SQL
+- Course fundamentals and setup
 
-🔀 CASE Statements
-Simple CASE as SWITCH
-Searched CASE for flexibility
-CASE in ORDER BY and GROUP BY
-Nested CASE statements
-Conditional data modification in UPDATE
+### 🔢 Variables & Conditional Logic
+- Variables in T-SQL  
+- IF, IF…ELSE, nested IFs  
+- Using AND/OR/NOT with conditions  
+- EXISTS checks  
+- Error handling with IF
 
-🔁 Loops
-WHILE loops
-BREAK and CONTINUE statements
-Nested loops
-Iterating over tables
+### 🔀 CASE Statements
+- Simple CASE as SWITCH  
+- Searched CASE for flexibility  
+- CASE in ORDER BY and GROUP BY  
+- Nested CASE statements  
+- Conditional data modification in UPDATE
 
-📦 BEGIN…END Blocks
-Structuring T-SQL code for clarity
+### 🔁 Loops
+- WHILE loops  
+- BREAK and CONTINUE statements  
+- Nested loops  
+- Iterating over tables
 
-⚠️ Error Handling
-TRY…CATCH
-THROW statement
-@@ERROR function
-Error functions
+### 📦 BEGIN…END Blocks
+- Structuring T-SQL code for clarity
 
-💳 Transactions
-Commit, rollback, and real-world bank transfer example
+### ⚠️ Error Handling
+- TRY…CATCH  
+- THROW statement  
+- @@ERROR function  
+- Error functions
 
-📋 Table Variables & Temporary Tables
-Table variables
-Temporary tables
-Differences vs permanent tables
+### 💳 Transactions
+- Commit, rollback, and real-world bank transfer example
 
-🗄️ Stored Procedures
-CREATE, READ, UPDATE, DELETE
-RETURN statements
-DROP procedures
-SP_HELPTEXT usage
+### 📋 Table Variables & Temporary Tables
+- Table variables  
+- Temporary tables  
+- Differences vs permanent tables
 
-🧮 Built-in Functions
-String functions
-Date functions
-Aggregate functions (SUM, AVG, COUNT, MIN, MAX)
+### 🗄️ Stored Procedures
+- CREATE, READ, UPDATE, DELETE  
+- RETURN statements  
+- DROP procedures  
+- SP_HELPTEXT usage
 
-🔍 Window Functions
-ROW_NUMBER(), RANK(), DENSE_RANK()
-LAG, LEAD
-PARTITION BY
-Paging using OFFSET & FETCH NEXT
+### 🧮 Built-in Functions
+- String functions  
+- Date functions  
+- Aggregate functions (SUM, AVG, COUNT, MIN, MAX)
 
-🧩 Scalar & Table-Valued Functions
-Inline Table-Valued Functions (ITVFs)
-Multi-Statement Table-Valued Functions (MTVFs)
-JOIN usage in TVFs
+### 🔍 Window Functions
+- ROW_NUMBER(), RANK(), DENSE_RANK()  
+- LAG, LEAD  
+- PARTITION BY  
+- Paging using OFFSET & FETCH NEXT
 
-⚡ Dynamic SQL & SQL Injection
-Dynamic SQL examples
-Understanding SQL injection and prevention
+### 🧩 Scalar & Table-Valued Functions
+- Inline Table-Valued Functions (ITVFs)  
+- Multi-Statement Table-Valued Functions (MTVFs)  
+- JOIN usage in TVFs
 
-🔔 Triggers
-AFTER INSERT, UPDATE, DELETE
-INSTEAD OF triggers
-Inserted and Deleted tables
+### ⚡ Dynamic SQL & SQL Injection
+- Dynamic SQL examples  
+- Understanding SQL injection and prevention
 
-🧵 Cursors
-Static, dynamic, forward-only, scrollable
+### 🔔 Triggers
+- AFTER INSERT, UPDATE, DELETE  
+- INSTEAD OF triggers  
+- Inserted and Deleted tables
 
-🧠 Common Table Expressions (CTEs)
-Recursive CTEs
-Date series generation
-Duplicate detection
-Ranking and aggregation examples
+### 🧵 Cursors
+- Static, dynamic, forward-only, scrollable
 
-🎯 Goal
+### 🧠 Common Table Expressions (CTEs)
+- Recursive CTEs  
+- Date series generation  
+- Duplicate detection  
+- Ranking and aggregation examples
+
+---
+
+## 🎯 Goal
 To master advanced T-SQL programming techniques and apply them to real-world database systems and projects.
-

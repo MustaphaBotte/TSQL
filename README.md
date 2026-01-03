@@ -12,26 +12,6 @@ This course is from **Programming Advices** and covers a wide range of advanced 
 ### 🧩 Introduction to T-SQL
 - Course fundamentals and setup
 
-### 🔢 Variables & Conditional Logic
-- Variables in T-SQL  
-- IF, IF…ELSE, nested IFs  
-- Using AND/OR/NOT with conditions  
-- EXISTS checks  
-- Error handling with IF
-
-### 🔀 CASE Statements
-- Simple CASE as SWITCH  
-- Searched CASE for flexibility  
-- CASE in ORDER BY and GROUP BY  
-- Nested CASE statements  
-- Conditional data modification in UPDATE
-
-### 🔁 Loops
-- WHILE loops  
-- BREAK and CONTINUE statements  
-- Nested loops  
-- Iterating over tables
-
 ### 📦 BEGIN…END Blocks
 - Structuring T-SQL code for clarity
 
@@ -88,6 +68,26 @@ This course is from **Programming Advices** and covers a wide range of advanced 
 - Date series generation  
 - Duplicate detection  
 - Ranking and aggregation examples
+
+### 🔢 Variables & Conditional Logic
+- Variables in T-SQL  
+- IF, IF…ELSE, nested IFs  
+- Using AND/OR/NOT with conditions  
+- EXISTS checks  
+- Error handling with IF
+
+### 🔀 CASE Statements
+- Simple CASE as SWITCH  
+- Searched CASE for flexibility  
+- CASE in ORDER BY and GROUP BY  
+- Nested CASE statements  
+- Conditional data modification in UPDATE
+
+### 🔁 Loops
+- WHILE loops  
+- BREAK and CONTINUE statements  
+- Nested loops  
+- Iterating over tables
 
 ---
 
